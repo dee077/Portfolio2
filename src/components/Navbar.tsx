@@ -58,7 +58,7 @@ const Navbar = () => {
             <span className="sr-only">Logo</span>
             <span className="block">
               <img
-                alt="Bhanu Sunka"
+                alt="Deepanshu Sahu"
                 width="48"
                 height="48"
                 className="rounded-full invert dark:invert-0"
