@@ -1,0 +1,17 @@
+{
+  "name": "Bhanu Portfolio",
+  "short_name": "Portfolio",
+  "start_url": "./public/index.html",
+  "display": "standalone",
+  "background_color": "#ffe9d2",
+  "theme_color": "#ffe9d2",
+  "orientation": "portrait-primary",
+  "icons":[{
+
+    "src": "./public/Rocket.png",
+    "type": "image/png",
+    "sizes": "144x144"
+  }
+  ]
+
+}
