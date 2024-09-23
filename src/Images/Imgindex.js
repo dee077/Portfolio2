@@ -12,7 +12,7 @@ const Images = {
     // Venue: require('./Venue.png'),
     // Hotel: require('./Hotel.png'),
     // Sax: require('./Sax.png'),
-    // Resume: require('./Bhanu_Web-Developer.pdf'),
+    // Resume: require('./w_Web-Developer.pdf'),
     // NextNpm: require('./NextNpm.png')
 }
 

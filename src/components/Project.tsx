@@ -28,7 +28,7 @@ const Project = () => {
           </p>
           <div>
             <Button
-              href="https://food-app-fe-two.vercel.app/"
+              href="https://food-app.deepanshu-sahu-projects.live/"
               target="_blank"
               rel="noreferrer"
               className="group"
@@ -129,7 +129,7 @@ const Project = () => {
           </p>
           <div>
             <Button
-              href="https://netflix-4bhtmozfz-dee777s-projects.vercel.app/"
+              href="https://netflix-gpt.deepanshu-sahu-projects.live/"
               target="_blank"
               rel="noreferrer"
               className="group"
@@ -201,7 +201,7 @@ const Project = () => {
               />
             </Span2>
             <Img
-              alt="Npm package"
+              alt="NetflixGpt"
               decoding="async"
               data-nimg="intrinsic"
               srcSet="https://ik.imagekit.io/dee777/NetflixGPT%20Mockup-Photoroom.png?updatedAt=1727034026344"
@@ -300,7 +300,7 @@ const Project = () => {
               />
             </Span2>
             <Img
-              alt="Vscode theme"
+              alt="Online Judge"
               decoding="async"
               data-nimg="intrinsic"
               srcSet="https://ik.imagekit.io/dee777/Online%20Judge%20Mockup-Photoroom.png?updatedAt=1727034026574"
@@ -325,7 +325,7 @@ const Project = () => {
           </p>
           <div>
             <Button
-              href="https://crypto-checker-omega.vercel.app"
+              href="https://crypto-checker.deepanshu-sahu-projects.live/"
               target="_blank"
               rel="noreferrer"
               className="group"
@@ -400,7 +400,7 @@ const Project = () => {
               />
             </Span2>
             <Img
-              alt="Npm package"
+              alt="Crypto Checker"
               decoding="async"
               data-nimg="intrinsic"
               srcSet="https://ik.imagekit.io/dee777/Crypto%20Checker%20Mockup-Photoroom.png?updatedAt=1727034024775"
@@ -425,7 +425,7 @@ const Project = () => {
           </p>
           <div>
             <Button
-              href="https://keeper-app-bice-nine.vercel.app/"
+              href="https://keeper-app.deepanshu-sahu-projects.live/"
               target="_blank"
               rel="noreferrer"
               className="group"
