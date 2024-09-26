@@ -125,7 +125,7 @@ const Navbar = () => {
               offset={-200}
               duration={400}
             >
-              <NavLinks>Blog</NavLinks>
+              <NavLinks>Achievements</NavLinks>
             </Link>
           </nav>
 
