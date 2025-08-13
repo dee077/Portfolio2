@@ -28,7 +28,7 @@ const Project = () => {
           </p>
           <div>
             <Button
-              href="https://food-app.deepanshu-sahu-projects.live/"
+              href="https://food-app-fe-drab.vercel.app/"
               target="_blank"
               rel="noreferrer"
               className="group"
@@ -129,7 +129,7 @@ const Project = () => {
           </p>
           <div>
             <Button
-              href="https://netflix-gpt.deepanshu-sahu-projects.live/"
+              href="https://netflix-gpt-tau-blue.vercel.app/"
               target="_blank"
               rel="noreferrer"
               className="group"
@@ -325,7 +325,7 @@ const Project = () => {
           </p>
           <div>
             <Button
-              href="https://crypto-checker.deepanshu-sahu-projects.live/"
+              href="https://crypto-checker-omega.vercel.app/"
               target="_blank"
               rel="noreferrer"
               className="group"
@@ -425,7 +425,7 @@ const Project = () => {
           </p>
           <div>
             <Button
-              href="https://keeper-app.deepanshu-sahu-projects.live/"
+              href="https://keeper-app-bice-nine.vercel.app/"
               target="_blank"
               rel="noreferrer"
               className="group"

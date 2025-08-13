@@ -14,26 +14,43 @@ const About = () => {
           </header>
           <TitleDivider />
 
-          <article className="mt-8">
-            <LeftPara>
-              Hello! My name is Deepanshu Sahu. I am a hard-working software engineer
-              specializing in Information Technology from Shri Ramdeobaba College of
-              Engineering and Mangement.
-            </LeftPara>
-            <LeftPara>
-              I love to explore new technologies and leverage them to solve
-              real-life problems. I'm a passionate learner who's always willing
-              to learn and work across various technologies and domains. In my
-              spare time, I love to explore open-source projects.
-            </LeftPara>
-            <LeftPara>
-              I am highly proficient in web development. I love to build
-              responsive user-friendly websites that look visually appealing,
-              with nice and fluid interactions, and close attention to User
-              Experience. I constantly strive for the best outcome on any
-              project I take on.
-            </LeftPara>
-          </article>
+<article className="mt-8">
+  <LeftPara>
+    I am Deepanshu Sahu, a dedicated Software Engineer specializing in
+    web development and backend systems. I had the privilege to contribute to 
+    <span className="font-bold"> OpenWISP</span> through 
+    <span className="font-bold"> Google Summer of Code 2025</span>.
+  </LeftPara>
+
+  <LeftPara>
+    My open-source journey also includes significant contributions to 
+    <span className="font-bold"> Django Software Foundation</span>, where I restored
+    compatibility of <span className="font-bold">ChannelsLiveServerTestCase</span> with 
+    <span className="font-bold"> Django 5.2</span>, developed Selenium-based WebSocket test suites.
+  </LeftPara>
+
+  <LeftPara>
+    Beyond open source, I build high-performance, responsive, and user-friendly web applications. 
+    My projects, such as <span className="font-bold">Food App</span> and 
+    <span className="font-bold"> NetflixGPT</span>, integrate modern technologies like 
+    <span className="font-bold"> React</span>, <span className="font-bold">Tailwind CSS</span>, 
+    <span className="font-bold"> Node.js</span>, and secure authentication systems, and are deployed 
+    to handle <span className="font-bold">500+ concurrent users</span>.
+  </LeftPara>
+
+  <LeftPara>
+    I am deeply passionate about problem-solving, having participated in 
+    <span className="font-bold"> 150+ coding contests</span> and solved over 
+    <span className="font-bold"> 1,000 problems</span> across platforms, earning a 
+    <span className="font-bold"> 3-star rating on CodeChef</span> with multiple 
+    <span className="font-bold"> top-250 global finishes</span>.
+  </LeftPara>
+
+  <LeftPara>
+    My goal is to continue contributing to impactful open-source projects, exploring innovative technologies, 
+    and building scalable, user-focused systems that make a real-world impact.
+  </LeftPara>
+</article>
         </LeftGrid>
 
         <RightGrid>

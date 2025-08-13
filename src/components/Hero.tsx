@@ -4,6 +4,7 @@ import styled from "styled-components";
 import tw from "twin.macro";
 import Hr from "./Hr";
 import Images from "src/Images/Imgindex";
+import TypingAnimation from "./TypingAnimation";
 
 const Hero = () => {
   return (
@@ -51,12 +52,14 @@ const Hero = () => {
             <span className="text-teal-500 dark:text-teal-400 dark:!text-transparent dark:bg-clip-text dark:bg-gradient-to-b dark:from-teal-400 dark:via-teal-400 dark:to-teal-900">
               &nbsp;Deepanshu Sahu
             </span>
-            <span className="hero-gradient">. </span> <br />
+            {/* <span className="hero-gradient">. </span> <br />
             <span className="hero-gradient">I'm </span>
             <span className="hero-gradient">Software </span>
-            <span className="hero-gradient">developer  and</span> <br />
+            <span className="hero-gradient">Developer</span> <br />
             <span className="hero-gradient">Enthusiastic </span>
-            <span className="hero-gradient">learner </span>
+            <span className="hero-gradient">learner </span> */}
+            <br />
+            <TypingAnimation />
           </LeftH1>
 
           <div className="order-1 md:order-2">
@@ -114,7 +117,7 @@ const Hero = () => {
             </BtnPrimary>
           </Link>
           <a
-            href="https://drive.google.com/file/d/16VNZV2f6A1c3MynA6QGx0ZBVl_STj-OB/view?usp=sharing"
+            href="https://drive.google.com/file/d/1YPEY1Y-Eq8r3vPdhPkr0mylOBmVOqhps/view?usp=sharing"
             target="_blank"
             onClick={() => {
               ReactGa.event({

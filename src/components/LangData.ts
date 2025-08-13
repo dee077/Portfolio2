@@ -26,14 +26,20 @@ const Languages: Obj[] = [
   },
   {
     index: 4,
+    src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
+    alt: "Typescript",
+    width: "40",
+  },
+    {
+    index: 5,
     src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
     alt: "Python",
     width: "40",
   },
   {
-    index: 5,
-    src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
-    alt: "Typescript",
+    index: 6,
+    src: "https://svgicons.com/api/ogimage/?id=190993&n=golang",
+    alt: "Go",
     width: "40",
   },
 ];
@@ -41,7 +47,7 @@ const Languages: Obj[] = [
 const Web: Obj[] = [
   {
     index: 1,
-    src: "https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png",
+    src: "https://www.svgrepo.com/show/353657/django-icon.svg",
     alt: "Django",
     width: "40",
   },

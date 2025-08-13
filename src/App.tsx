@@ -22,8 +22,8 @@ const App = () => {
         <MainDiv id="Blur">
           <Hero />
           <About />
-          <Project />
           <Work />
+          <Project />
           <Blog />
           <Footer />
         </MainDiv>
